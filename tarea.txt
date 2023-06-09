@@ -1,0 +1,19 @@
+identificar palabra palindrome
+
+ingresar nombre completo y simbolo o caracter
+que busque la palabra sustituir vocales por caracter
+
+
+ingresar nombre y fecha de cumpleaños
+desplegar nombre y edad
+validar el mes para dar edad real
+
+usar css y js
+
+
+buton mostrar numero primos
+1 al 100
+y luego los primos
+
+css
+
